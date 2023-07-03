@@ -1,0 +1,4 @@
+rootProject.name = 'MultiModule-QueryDSL-Practice'
+include 'practice-api'
+include 'practice-common'
+include 'practice-domain'
