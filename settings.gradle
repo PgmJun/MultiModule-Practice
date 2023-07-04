@@ -1,4 +1,5 @@
-rootProject.name = 'MultiModule-QueryDSL-Practice'
+rootProject.name = 'MultiModule-Practice'
 include 'practice-api'
 include 'practice-common'
 include 'practice-domain'
+include 'demo'
